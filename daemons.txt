@@ -1,0 +1,91 @@
+Package             initscripts                 Description
+acpid               acpid                       A daemon for delivering ACPI power management events with netlink support.
+alsa                alsa                        Saves the state of a sound card (e.g. volume) on shutdown and restores it on startup.
+at                  atd                         Runs jobs queued for later execution.
+Autofs              autofs                      Automounting of removable media or network shares when they are inserted or accessed.
+Avahi               avahi-daemon                Allows programs to automatically find local network services.
+avahi-dnsconfd      avahi-dnsconfd.service      Multicast/unicast DNS-SD framework.
+Audit framework     auditd      Linux audit framework
+Bitlbee     bitlbee     Brings instant messaging (XMPP, Yahoo!, ICQ, Twitter) to IRC.
+Bluetooth       bluetooth       Bluetooth protocol stack, framework, subsystem.
+Chrony      chrony      Lightweight NTP client and server.
+CDemu       cdemud      CD/DVD-ROM device emulator.
+ClamAV      clamav      Anti-virus toolkit for Unix.
+ConnMan     connmand        Wireless LAN network manager.
+Cpupower        cpupower        Sets cpufreq governor and other parameters on startup.
+Cron        crond       Daemon to schedule and time events.
+CUPS        cupsd       The CUPS Printing System daemon.
+D-Bus       dbus        Freedesktop.org message bus system.
+dante       sockd       A circuit-level SOCKS client/server.
+Deluge      deluged     Cross-platform and full-featured BitTorrent client - main daemon.
+Dhcpcd      dhcpcd      DHCP daemon.
+Dovecot     dovecot     IMAP and POP3 server.
+Dropbox     dropboxd        Cross-platform file synchronisation with version control.
+fail2ban        fail2ban        Fail2ban scans log files and bans IP addresses that show malicious activity.
+Fan speed control       fancontrol      Fan control daemon (part of lm_sensors)
+Fbsplash        fbsplash        Graphical boot splash screen for the user.
+FluidSynth      fluidsynth      Software synthesizer.
+inetutils       ftpd        inetutils FTP daemon.
+GDM     gdm     GNOME Display Manager.
+Git     git-daemon      Git daemon.
+gpm     gpm     Console mouse support.
+hddtemp     hddtemp     Hard drive temperature monitor daemon.
+apache      httpd       Apache HTTP Server (Web Server).
+iptables        iptables        Load firewall rules for IPv4.
+IPFS        ipfs daemon     A peer-to-peer hypermedia protocol node
+KDE     kdm     KDE Display Manager.
+Laptop Mode Tools       laptop-mode     Laptop power saving tools.
+lighttpd        lighttpd        Lighttpd HTTP Server (Web Server).
+libvirt     libvirt     libvirt is a virtualization API and a daemon for managing virtual machines (VMs).
+lxdm        lxdm        LXDE Display Manager.
+miniDLNA        minidlna        simple DLNA/UPnP media server.
+mpd     mpd     Music Player Daemon.
+MariaDB     mysqld      MySQL database server.
+MythTV      mythbackend     Back-end for the MythTV digital video recording/home theater software.
+BIND        named       The Berkeley Internet Name Daemon (BIND) DNS server.
+netctl              Manually activate specific profile.
+NetworkManager      networkmanager      NetworkManager daemon, provides configuration and detection for automatic network connections.
+Nginx       nginx       Nginx HTTP Server and IMAP/POP3 proxy server (Web Server).
+glibc       nscd        Name service caching daemon.
+ntpd        ntpd        Network Time Protocol daemon (client and server).
+Ntop        ntop        Ntop is a network traffic probe based on libcap.
+OpenNTPD        openntpd        Alternative Network Time Protocol daemon (client and server).
+OpenVPN     openvpn     One for each VPN configuration file saved like <code>/etc/openvpn/<i>&lt;profile-name&gt;</i>.conf</code>
+OSS     oss     Open Sound System. Alternative to ALSA.
+Pdnsd       pdnsd       Proxy DNS server with permanent caching.
+PostgreSQL      postgresql      PostgreSQL database server.
+Postfix     postfix         Mail server, which is an alternative to using sendmail.
+Postgrey        postgrey        Greylisting service, used with Postfix
+PPTP server     pptpd       A Virtual Private Network (VPN) server using the Point-to-Point Tunneling Protocol (PPTP).
+pppd        pppd        A daemon which implements the Point-to-Point Protocol for dial-up networking.
+preload     preload     Makes applications run faster by prefetching binaries and shared objects.
+Prosody     prosody     XMPP server.
+Profile-sync-daemon     psd     Manages your browser's profile in tmpfs and periodically syncs it back to your physical disk.
+Pure FTP        pure-ftpd       A fast, production quality, standards-compliant FTP server.
+Rsync       rsyncd      rsync daemon.
+Rsyslog     rsyslogd        Alternative system logger.
+Redis       redis-server        Key-value store
+samba       samba       File and print services for Microsoft Windows clients.
+LVM     ?       LVM is a logical volume manager for the Linux kernel; it manages disk drives and similar mass-storage devices.
+SANE        saned       SANE network daemon.
+lm_sensors      sensord     Sensor information logging daemon.
+SLiM        slim        Simple Login Manager.
+SMART       smartd      Self-Monitoring, Analysis, and Reporting Technology (S.M.A.R.T.) Hard Disk Monitoring.
+smbnetfs        smbnetfs        Automatically mount Samba/Microsoft network shares.
+snmpd       snmpd       A suite of applications used to implement SNMP
+spamassassin        spamd       e-mail spam filtering service.
+OpenSSH     sshd        OpenSSH (secure shell) daemon.
+syslog-ng       syslog-ng       System logger next generation.
+Timidity        timidity++      Software synthesizer for MIDI.
+Tinc        ?       One for each configuration directory like /etc/tinc/<i>&lt;vpnname&gt;</i>/
+Tor     tor     Onion routing for anonymous communication.
+Transmission        transmissiond       BitTorrent Daemon.
+Ufw     ufw     Uncomplicated FireWall.
+Urxvtd      ?       urxvt daemon.
+VirtualBox      vboxservice     VirtualBox Guest Service.
+vnStat      vnstat      Lightweight network traffic monitor.
+Very Secure FTP Daemon      vsftpd      FTP server.
+wicd        wicd        A lightweight alternative to NetworkManager.
+x11vnc      x11vnc      VNC remote desktop daemon.
+XDM     xdm     X display manager.
+xdm-archlinux       xdm-archlinux       X display manager with Arch Linux theme.
