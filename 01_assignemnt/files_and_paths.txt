@@ -1,0 +1,124 @@
+List of important files and paths in linux:
+-------------------------------------------
+
+Important paths (directories):
+
+/* CORE DIRECTORIES */
+/ : Primary hierarchy root and root directory of the entire file system hierarchy.
+/bin : Essential command binaries that need to be available in single user mode; for all users, e.g., cat, ls, cp.
+/boot : Boot loader files, e.g., kernels, initrd.
+/dev : device files, e.g., /dev/null, /dev/disk0, /dev/sda1, /dev/tty, /dev/random.
+/etc : Host-specific system-wide configuration files
+    /etc/opt : Configuration files for add-on packages that are stored in /opt.
+    /etc/fonts : Fonts configuration files on the system.
+    /etc/grub.d : Grub configuration files.
+    /etc/X11 : Configuration files for the X Window System, version 11.
+    /etc/sgml : Configuration files, such as catalogs, for software that processes SGML.
+    /etc/xml : Configuration files, such as catalogs, for software that processes XML.
+/home : Users' home directories, containing saved files, personal settings, etc.
+/lib : Libraries essential for the binaries in /bin and /sbin.
+/lib<qual> : Alternative format essential libraries. Such directories are optional, but if they exist, they have some requirements.
+/media : Mount points for removable media such as CD-ROMs.
+/mnt : Temporarily mounted filesystems.
+/opt : Optional application software packages.
+/proc : Virtual filesystem providing process and kernel information as files. In Linux, corresponds to a procfs mount. Generally automatically generated and populated by the system, on the fly.
+/root : Home directory for the root user.
+/run : Run-time variable data: Information about the running system since last boot, e.g., currently logged-in users and running daemons. Files under this directory must be either removed or truncated at the beginning of the boot process; but this is not necessary on systems that provide this directory as a temporary filesystem (tmpfs).
+/sbin : Essential system binaries, e.g., fsck, init, route.
+/srv : Site-specific data served by this system, such as data and scripts for web servers, data offered by FTP servers, and repositories for version control systems.
+/sys : Contains information about devices, drivers, and some kernel features.
+/tmp : Temporary files (see also /var/tmp). Often not preserved between system reboots, and may be severely size restricted.
+/usr : Secondary hierarchy for read-only user data; contains the majority of (multi-)user utilities and applications.
+    /usr/bin : Non-essential command binaries (not needed in single user mode); for all users.
+    /usr/include : Standard include files.
+    /usr/lib : Libraries for the binaries in /usr/bin and /usr/sbin.
+    /usr/lib<qual> : Alternative format libraries, e.g. /usr/lib32 for 32-bit libraries on a 64-bit machine (optional).
+    /usr/local : Tertiary hierarchy for local data, specific to this host. Typically has further subdirectories, e.g., bin, lib, share.
+    /usr/sbin : Non-essential system binaries, e.g., daemons for various network-services.
+    /usr/share : Architecture-independent (shared) data.
+    /usr/src : Source code, e.g., the kernel source code with its header files.
+    /usr/X11R6 : X Window System, Version 11, Release 6 (up to FHS-2.3, optional).
+/var : Variable files—files whose content is expected to continually change during normal operation of the system—such as logs, spool files, and temporary e-mail files.
+    /var/cache : Application cache data. Such data are locally generated as a result of time-consuming I/O or calculation. The application must be able to regenerate or restore the data. The cached files can be deleted without loss of data.
+    /var/lib : State information. Persistent data modified by programs as they run, e.g., databases, packaging system metadata, etc.
+    /var/lock : Lock files. Files keeping track of resources currently in use.
+    /var/log : Log files. Various logs.
+    /var/mail : Mailbox files. In some distributions, these files may be located in the deprecated /var/spool/mail.
+    /var/opt : Variable data from add-on packages that are stored in /opt.
+    /var/run : Run-time variable data. This directory contains system information data describing the system since it was booted.
+    /var/spool : Spool for tasks waiting to be processed, e.g., print queues and outgoing mail queue.
+        /var/spool/mail : Deprecated location for users' mailboxes.
+    /var/tmp : Temporary files to be preserved between reboots.
+
+
+/* EXTRA */
+/etc/init.d : Service startup Script.
+/etc/rc.d : Information about run level specific script.
+/etc/rc.d/init.d : Run Level Initialisation Script.
+/etc/profile.d : Application script, executed after login.
+/etc/X11 : Configuration files of X-window System.
+
+
+Important files:
+
+/boot/vmlinuz : The Linux Kernel file.
+/boot/initramfs-linux.img : The initial ramdisk. The initial ramdisk is in essence a very small environment (early userspace) which loads various kernel modules and sets up necessary things before handing over control to init.
+
+/dev/hda : Device file for the first IDE HDD (Hard Disk Drive)
+/dev/sda : Device file for the first SCSI HDD (Hard Disk Drive)
+/dev/hcd : Device file for the IDE Cdrom, commonly
+/dev/js0 : Device file for joystick.
+/dev/fb0 : Device file for the linux framebuffer.
+/dev/null : A pseudo device, that don’t exist. Sometime garbage output is redirected to /dev/null, so that it gets lost, forever.
+/dev/random : A pseudo device, that don't exist. Used for pseudo random number generation.
+/dev/zero : A pseudo device, that don't exist. Used for a generating a continuous stream of zeros.
+
+/etc/crontab : A shell script to run specified commands on a predefined time Interval.
+/etc/mtab : Currently mounted blocks information.
+/etc/fstab : Information of Disk Drive and their mount point.
+/etc/inittab : INIT process and their interaction at various run level.
+/etc/crypttab : Configuration file for encrypted block devices.
+
+/etc/group : File defining groups on the system.
+/etc/gshadow : Shadowes group file.
+/etc/passwd : Contains password of system users in plaintext format, a security implementation.
+/etc/shadow : Contains password of system users in encrypted format, a security implementation.
+
+/etc/lilo.conf : lilo bootloader configuration file.
+/etc/grub.conf : grub bootloader configuration file.
+
+/etc/shells : File containing paths of valid login shells.
+/etc/hostname : Local hostname configuration file.
+/etc/hosts : Information of Ip addresses and corresponding host names.
+/etc/hosts.allow : List of hosts allowed to access services on the local machine.
+/etc/host.deny : List of hosts denied to access services on the local machine.
+/etc/resolv.conf : Domain Name Servers (DNS) being used by System.
+/etc/nsswitch.conf : Name Service Switch configuration file.
+
+/etc/locale.conf : Configuration file for locale settings.
+
+/etc/modules.conf : Configuration files for system modules.
+/etc/issue : Allows to edit the pre-login message.
+/etc/motd : motd stands for Message Of The Day, The Message users gets upon login.
+
+/etc/bashrc : Contains system defaults and aliases used by bash shell.
+/etc/profile : Bash shell defaults
+
+/proc/cpuinfo : CPU Information
+/proc/filesystems : File-system Information being used currently.
+/proc/interrupts : Information about the current interrupts being utilised currently.
+/proc/ioports : Contains all the Input/Output addresses used by devices on the server.
+/proc/meminfo : Memory Usages Information.
+/proc/modules : Currently using kernel module.
+/proc/mount : Mounted File-system Information.
+/proc/stat : Detailed Statistics of the current System.
+/proc/swaps : Swap File Information.
+
+/var/log/lastlog : log of last boot process.
+/var/log/messages : log of messages produced by syslog daemon at boot.
+/var/log/wtmp : list login time and duration of each user on the system currently.
+
+$HOME/.profile : File sourced by all interactive login shells on statup.
+$HOME/.bashrc : Bash configuration file.
+$HOME/.bash_history : History of all commands executed by bash.
+$HOME/.vimrc : Configuration file for the vim text editor.
