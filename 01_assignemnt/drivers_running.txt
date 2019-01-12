@@ -1,0 +1,161 @@
+Module                  Size  Used by
+hid_generic            16384  0
+usbhid                 61440  0
+hid                   143360  2 usbhid,hid_generic
+8021q                  40960  0
+garp                   16384  1 8021q
+mrp                    20480  1 8021q
+stp                    16384  1 garp
+llc                    16384  2 stp,garp
+ccm                    20480  3
+iptable_nat            16384  0
+nf_nat_ipv4            16384  1 iptable_nat
+nf_nat                 40960  1 nf_nat_ipv4
+nf_conntrack          163840  2 nf_nat,nf_nat_ipv4
+nf_defrag_ipv6         24576  1 nf_conntrack
+nf_defrag_ipv4         16384  1 nf_conntrack
+libcrc32c              16384  2 nf_conntrack,nf_nat
+iptable_mangle         16384  0
+iptable_filter         16384  0
+nls_iso8859_1          16384  1
+nls_cp437              20480  1
+vfat                   20480  1
+fat                    81920  1 vfat
+nvidia_drm             53248  4
+nvidia_modeset       1040384  3 nvidia_drm
+nvidia              17317888  170 nvidia_modeset
+uvcvideo              114688  0
+videobuf2_vmalloc      20480  1 uvcvideo
+videobuf2_memops       20480  1 videobuf2_vmalloc
+videobuf2_v4l2         28672  1 uvcvideo
+videobuf2_common       57344  2 videobuf2_v4l2,uvcvideo
+snd_hda_codec_hdmi     61440  1
+videodev              229376  3 videobuf2_v4l2,uvcvideo,videobuf2_common
+snd_hda_codec_realtek   122880  1
+snd_hda_codec_generic    90112  1 snd_hda_codec_realtek
+btusb                  57344  0
+media                  57344  4 videodev,videobuf2_v4l2,uvcvideo,videobuf2_common
+btrtl                  20480  1 btusb
+btbcm                  16384  1 btusb
+joydev                 28672  0
+btintel                28672  1 btusb
+bluetooth             651264  5 btrtl,btintel,btbcm,btusb
+mousedev               24576  0
+ecdh_generic           24576  1 bluetooth
+intel_rapl             28672  0
+i915                 2109440  3
+snd_soc_skl           122880  0
+x86_pkg_temp_thermal    20480  0
+intel_powerclamp       20480  0
+snd_soc_hdac_hda       24576  1 snd_soc_skl
+snd_hda_ext_core       32768  2 snd_soc_hdac_hda,snd_soc_skl
+coretemp               20480  0
+snd_soc_skl_ipc        73728  1 snd_soc_skl
+arc4                   16384  2
+kvm_intel             245760  0
+iwlmvm                442368  0
+kvmgt                  32768  0
+wmi_bmof               16384  0
+vfio_mdev              16384  0
+snd_soc_sst_ipc        20480  1 snd_soc_skl_ipc
+mdev                   24576  2 kvmgt,vfio_mdev
+crct10dif_pclmul       16384  1
+hp_wmi                 16384  0
+crc32_pclmul           16384  0
+sparse_keymap          16384  1 hp_wmi
+ghash_clmulni_intel    16384  0
+vfio_iommu_type1       32768  0
+snd_soc_sst_dsp        40960  1 snd_soc_skl_ipc
+vfio                   36864  3 kvmgt,vfio_mdev,vfio_iommu_type1
+iTCO_wdt               16384  0
+snd_soc_acpi_intel_match    24576  1 snd_soc_skl
+iTCO_vendor_support    16384  1 iTCO_wdt
+snd_soc_acpi           16384  2 snd_soc_acpi_intel_match,snd_soc_skl
+mac80211              946176  1 iwlmvm
+kvm                   741376  2 kvmgt,kvm_intel
+aesni_intel           200704  2
+snd_soc_core          278528  2 snd_soc_hdac_hda,snd_soc_skl
+snd_compress           28672  1 snd_soc_core
+ac97_bus               16384  1 snd_soc_core
+snd_pcm_dmaengine      16384  1 snd_soc_core
+aes_x86_64             20480  1 aesni_intel
+irqbypass              16384  1 kvm
+crypto_simd            16384  1 aesni_intel
+iwlwifi               344064  1 iwlmvm
+cryptd                 28672  3 crypto_simd,ghash_clmulni_intel,aesni_intel
+i2c_algo_bit           16384  1 i915
+glue_helper            16384  1 aesni_intel
+drm_kms_helper        208896  2 nvidia_drm,i915
+intel_cstate           16384  0
+drm                   499712  8 drm_kms_helper,nvidia_drm,i915
+intel_uncore          135168  0
+intel_rapl_perf        16384  0
+psmouse               172032  0
+snd_hda_intel          49152  3
+snd_hda_codec         155648  5 snd_hda_codec_generic,snd_hda_codec_hdmi,snd_hda_intel,snd_hda_codec_realtek,snd_soc_hdac_hda
+input_leds             16384  0
+ipmi_devintf           20480  0
+cfg80211              778240  3 iwlmvm,iwlwifi,mac80211
+ipmi_msghandler        65536  2 ipmi_devintf,nvidia
+intel_gtt              24576  1 i915
+agpgart                53248  2 intel_gtt,drm
+r8169                  94208  0
+snd_hda_core           98304  8 snd_hda_codec_generic,snd_hda_codec_hdmi,snd_hda_intel,snd_hda_ext_core,snd_hda_codec,snd_hda_codec_realtek,snd_soc_hdac_hda,snd_soc_skl
+syscopyarea            16384  1 drm_kms_helper
+sysfillrect            16384  1 drm_kms_helper
+rtsx_pci_ms            24576  0
+sysimgblt              16384  1 drm_kms_helper
+libphy                 86016  2 r8169
+snd_hwdep              16384  1 snd_hda_codec
+rfkill                 28672  6 hp_wmi,bluetooth,cfg80211
+fb_sys_fops            16384  1 drm_kms_helper
+snd_pcm               135168  8 snd_hda_codec_hdmi,snd_hda_intel,snd_hda_ext_core,snd_hda_codec,snd_soc_core,snd_soc_skl,snd_hda_core,snd_pcm_dmaengine
+memstick               20480  1 rtsx_pci_ms
+snd_timer              40960  1 snd_pcm
+hp_accel               28672  0
+lis3lv02d              32768  1 hp_accel
+snd                   102400  16 snd_hda_codec_generic,snd_hda_codec_hdmi,snd_hwdep,snd_hda_intel,snd_hda_codec,snd_hda_codec_realtek,snd_timer,snd_compress,snd_soc_core,snd_pcm
+evdev                  20480  17
+input_polldev          20480  1 lis3lv02d
+hp_wireless            16384  0
+wmi                    32768  2 hp_wmi,wmi_bmof
+int3400_thermal        20480  0
+battery                24576  0
+processor_thermal_device    16384  0
+ac                     16384  0
+int340x_thermal_zone    16384  1 processor_thermal_device
+acpi_thermal_rel       16384  1 int3400_thermal
+mei_me                 45056  0
+mei                   114688  1 mei_me
+mac_hid                16384  0
+intel_soc_dts_iosf     20480  1 processor_thermal_device
+i2c_i801               36864  0
+soundcore              16384  1 snd
+intel_pch_thermal      16384  0
+pcc_cpufreq            20480  0
+ip_tables              32768  3 iptable_filter,iptable_nat,iptable_mangle
+x_tables               49152  3 iptable_filter,ip_tables,iptable_mangle
+ext4                  745472  2
+crc32c_generic         16384  0
+crc16                  16384  2 bluetooth,ext4
+mbcache                16384  1 ext4
+jbd2                  131072  1 ext4
+fscrypto               32768  1 ext4
+sr_mod                 28672  0
+cdrom                  73728  1 sr_mod
+sd_mod                 57344  5
+rtsx_pci_sdmmc         32768  0
+serio_raw              20480  0
+mmc_core              180224  1 rtsx_pci_sdmmc
+atkbd                  36864  0
+libps2                 20480  2 atkbd,psmouse
+ahci                   40960  4
+libahci                40960  1 ahci
+xhci_pci               20480  0
+libata                282624  2 libahci,ahci
+xhci_hcd              262144  1 xhci_pci
+crc32c_intel           24576  5
+scsi_mod              258048  3 sd_mod,libata,sr_mod
+rtsx_pci               77824  2 rtsx_pci_sdmmc,rtsx_pci_ms
+i8042                  32768  1 hp_accel
+serio                  28672  7 serio_raw,atkbd,hp_accel,psmouse,i8042
