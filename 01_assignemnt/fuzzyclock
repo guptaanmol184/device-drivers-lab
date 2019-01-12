@@ -1,0 +1,43 @@
+#!/bin/bash
+
+# get system time
+min=$(date +%M) #[0, 59]
+hour=$(date +%l) #[1, 12]
+
+fuz_bucket=$(((min+2)/5))
+
+# increment hour for next hour
+if (( fuz_bucket > 6 )); then
+    hour=$((hour+1))
+    if (( hour == 13 )); then
+        hour=1
+    fi
+fi
+
+hour_array=([1]='one' 'two' 'three' 'four' 'five' 'six' 'seven' 'eight' 'nine' 'ten' 'eleven' 'twelve')
+fuz_array=( \
+    [0]='o'\''clock' \
+    [1]='five' \
+    [2]='ten' \
+    [3]='quater' \
+    [4]='twenty' \
+    [5]='twenty five'\
+    [6]='half'
+    [7]='twenty five'\
+    [8]='twenty' \
+    [9]='quater' \
+    [10]='ten' \
+    [11]='five' \
+    [12]='o'\''clock' )
+
+case $fuz_bucket in
+    0|12)
+        echo "${hour_array[$hour]} ${fuz_array[$fuz_bucket]}"
+        ;;
+    1|2|3|4|5|6)
+        echo "${fuz_array[$fuz_bucket]} past ${hour_array[$hour]}"
+        ;;
+    7|8|9|10|11)
+        echo "${fuz_array[$fuz_bucket]} to ${hour_array[$hour]}"
+        ;;
+esac
