@@ -14,30 +14,95 @@ if (( fuz_bucket > 6 )); then
     fi
 fi
 
-hour_array=([1]='one' 'two' 'three' 'four' 'five' 'six' 'seven' 'eight' 'nine' 'ten' 'eleven' 'twelve')
-fuz_array=( \
-    [0]='o'\''clock' \
-    [1]='five' \
-    [2]='ten' \
-    [3]='quater' \
-    [4]='twenty' \
-    [5]='twenty five'\
-    [6]='half'
-    [7]='twenty five'\
-    [8]='twenty' \
-    [9]='quater' \
-    [10]='ten' \
-    [11]='five' \
-    [12]='o'\''clock' )
+case $fuz_bucket in
+    0)
+        fuz_str='o'\''clock'
+        ;;
+    1)
+        fuz_str='five'
+        ;;
+    2)
+        fuz_str='ten'
+        ;;
+    3)
+        fuz_str='quarter'
+        ;;
+    4)
+        fuz_str='twenty'
+        ;;
+    5)
+        fuz_str='twenty five'
+        ;;
+    6)
+        fuz_str='half'
+        ;;
+    7)
+        fuz_str='twenty five'
+        ;;
+    8)
+        fuz_str='twenty'
+        ;;
+    9)
+        fuz_str='quarter'
+        ;;
+    10)
+        fuz_str='ten'
+        ;;
+    11)
+        fuz_str='five'
+        ;;
+    12)
+        fuz_str='o'\''clock'
+        ;;
+esac
+
+case $hour in
+    1)
+        hour_str='one'
+        ;;
+    2)
+        hour_str='two'
+        ;;
+    3)
+        hour_str='three'
+        ;;
+    4)
+        hour_str='four'
+        ;;
+    5)
+        hour_str='five'
+        ;;
+    6)
+        hour_str='six'
+        ;;
+    7)
+        hour_str='seven'
+        ;;
+    8)
+        hour_str='eight'
+        ;;
+    9)
+        hour_str='nine'
+        ;;
+    10)
+        hour_str='ten'
+        ;;
+    11)
+        hour_str='eleven'
+        ;;
+    12)
+        hour_str='twelve'
+        ;;
+esac
 
 case $fuz_bucket in
     0|12)
-        echo "${hour_array[$hour]} ${fuz_array[$fuz_bucket]}"
+        echo "$hour_str $fuz_str"
         ;;
     1|2|3|4|5|6)
-        echo "${fuz_array[$fuz_bucket]} past ${hour_array[$hour]}"
+        echo "$fuz_str past $hour_str"
         ;;
     7|8|9|10|11)
-        echo "${fuz_array[$fuz_bucket]} to ${hour_array[$hour]}"
+        echo "$fuz_str to $hour_str"
         ;;
 esac
