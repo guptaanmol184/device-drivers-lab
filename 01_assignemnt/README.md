@@ -11,6 +11,4 @@ Lab Assignment - 1
 
 5. [x] Write a simple C program and attach with kernel.
 
-6. [ ] Download the source code of a command not available on your machine (example: pstree), compile it and add it as a shell command.
-
-7. [ ] Write a application in C program to capture network packers and display any password if it is found in the packet
+6. [ ] Write a application in C program to capture network packers and display any password if it is found in the packet
