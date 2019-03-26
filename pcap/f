@@ -1,0 +1,2596 @@
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d740c8
+
+Total packet available: 90 bytes
+Expected packet size: 90 bytes
+IP header length (IHL) in bytes: 20
+Not a TCP packet. Skipping...
+
+Total packet available: 118 bytes
+Expected packet size: 118 bytes
+IP header length (IHL) in bytes: 20
+Not a TCP packet. Skipping...
+
+Total packet available: 60 bytes
+Expected packet size: 60 bytes
+IP header length (IHL) in bytes: 24
+Not a TCP packet. Skipping...
+
+Total packet available: 60 bytes
+Expected packet size: 60 bytes
+IP header length (IHL) in bytes: 24
+Not a TCP packet. Skipping...
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d74410
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d744a8
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d74540
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d745d8
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d74670
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d74708
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d747a0
+
+Total packet available: 90 bytes
+Expected packet size: 90 bytes
+IP header length (IHL) in bytes: 20
+Not a TCP packet. Skipping...
+
+Total packet available: 90 bytes
+Expected packet size: 90 bytes
+IP header length (IHL) in bytes: 20
+Not a TCP packet. Skipping...
+
+Total packet available: 90 bytes
+Expected packet size: 90 bytes
+IP header length (IHL) in bytes: 20
+Not a TCP packet. Skipping...
+
+Total packet available: 118 bytes
+Expected packet size: 118 bytes
+IP header length (IHL) in bytes: 20
+Not a TCP packet. Skipping...
+
+Total packet available: 118 bytes
+Expected packet size: 118 bytes
+IP header length (IHL) in bytes: 20
+Not a TCP packet. Skipping...
+
+Total packet available: 118 bytes
+Expected packet size: 118 bytes
+IP header length (IHL) in bytes: 20
+Not a TCP packet. Skipping...
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d74cb8
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d74d50
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d74de8
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d74e80
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d74f18
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d74fb0
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d75048
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d750e0
+
+Total packet available: 74 bytes
+Expected packet size: 74 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 40
+Size of all headers combined: 74 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d75180
+
+Total packet available: 70 bytes
+Expected packet size: 70 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 36
+Size of all headers combined: 70 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7521c
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d752b8
+
+Total packet available: 610 bytes
+Expected packet size: 610 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 544 bytes
+Memory address where payload begins: 0x7f6f28d75350
+
+GET /cgi-bin/webproc?var:menu=setup&var:page=wancfg&getpage=html/index.html&errorpage=html/index.html HTTP/1.1
+Host: 192.168.1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Cookie: sessionid=2ecccec9; sessionid=2ecccec9; TBSPASSWORD=admin; language=en_us; sys_UserName=admin
+Upgrade-Insecure-Requests: 1
+DNT: 1
+Cache-Control: max-age=0
+
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d75608
+
+Total packet available: 83 bytes
+Expected packet size: 83 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 17 bytes
+Memory address where payload begins: 0x7f6f28d756a0
+
+HTTP/1.0 200 OK
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d75750
+
+Total packet available: 1024 bytes
+Expected packet size: 1514 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d757e8
+
+Content-type: text/html
+Pragma: no-cache
+Cache-Control: no-cache
+set-cookie: sessionid=2ecccec9; expires=Fri, 31-Dec-9999 23:59:59 GMT;path=/
+
+
+
+
+
+
+
+
+	
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Pragma" content="No-cache" />
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate" />
+<meta http-equiv="Expires" content="-1" />
+<title>ADSL Router</title>
+<link type="text/css" rel="stylesheet" href="/html/skin/common.css?v=dlink0003" media="screen" />
+<script type="text/javascript" src="/html/languages/en_us/error.js?v=dlink0003"></script>
+<script type="text/javascript" src="/html/languages/en_us/menu.js?v=dlink0003"></script>
+<script type="text/javascript" src="/html/languages/en_us/page/wanc
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d75e28
+
+Total packet available: 1024 bytes
+Expected packet size: 1514 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d75ec0
+
+G_Date='04/13/2012-15:07:23';
+{    
+	 
+}
+var G_Date='03/30/2013-22:05:07';
+
+
+
+var wanSel = 0; 
+var ajax;
+var G_DefaultRouter = "InternetGatewayDevice.WANDevice.3.WANConnectionDevice.1.WANIPConnection.1";  //默认路由;
+//ATM
+
+var G_ATM_num = 0;
+var G_WanConns_num = 0;
+var temp_num = 0;
+var G_WanConns3g_num = 0;
+var select_DSL_all = 0;
+var select_DSL = 0;
+var temp = [];
+var G_ATM = [];
+var G_WanConns = [];
+var G_WanConns3g = [];
+
+
+	var G_ETH_num = 0;
+	var select_Eth_all = 0;
+	var ethTemp_num = 0;
+	var G_EthWanConns_num = 0;
+	var ethTemp = [];
+	var G_ETH = [];
+	var select_Eth = 0;
+	var G_EthWanConns = [];
+	var G_WANETHEnable= "1";
+
+
+	
+	
+			G_ETH[G_ETH_num] = ["InternetGatewayDevice.WANDevice.3.WANConnectionDevice.1.",//Path
+						"0" //X_TWSZ-COM_VLANID
+					   ];
+					   G_ETH_num++;
+		
+	
+
+
+
+    
+	
+   
+        			G_EthWanConns[G_EthWanConns_num] = ["InternetGatewayDevice.WANDevice.3.WANConnection
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d76500
+
+Total packet available: 242 bytes
+Expected packet size: 242 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 176 bytes
+Memory address where payload begins: 0x7f6f28d76598
+
+	                          "Disconnected",   //X_TWSZ-COM_IPv6Config.ConnectionStatus
+							                           ];
+			                                           ++G_E
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d766e0
+
+Total packet available: 838 bytes
+Expected packet size: 838 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 772 bytes
+Memory address where payload begins: 0x7f6f28d76778
+
+thWanConns_num;
+		      
+	      
+       
+        	
+        
+	
+
+
+function initWanData(){
+		for(var i = 0; i < temp.length; i++){
+			if(("IP_Routed" == temp[i][5] )){
+				G_WanConns[G_WanConns_num]    = [];
+				G_WanConns[G_WanConns_num][0] = temp[i][0];
+				G_WanConns[G_WanConns_num][1] = temp[i][1];
+				G_WanConns[G_WanConns_num][2] = temp[i][2];
+				G_WanConns[G_WanConns_num][3] = temp[i][3];
+				G_WanConns[G_WanConns_num][4] = temp[i][4];
+				G_WanConns[G_WanConns_num][5] = "PPPOE";
+				G_WanConns[G_WanConns_num][6] = temp[i][7];
+				G_WanConns[G_WanConns_num][7] = temp[i][8];
+			    
+				G_WanConns[G_WanConns_num][8] = temp[i][9];
+				G_WanConns[G_WanConns_num][9] = temp[i][10];
+				G_WanConns[G_WanConns_num][10] = temp[i][11];
+			   
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d76b18
+
+Total packet available: 617 bytes
+Expected packet size: 617 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 551 bytes
+Memory address where payload begins: 0x7f6f28d76bb0
+
+
+				++G_WanConns_num;
+			}
+			else if(( temp[i][5] == "PPPoE_Bridged") && (temp[i][2] != "pppo3g")){
+				G_WanConns[G_WanConns_num]    = [];
+				G_WanConns[G_WanConns_num][0] = temp[i][0];
+				G_WanConns[G_WanConns_num][1] = temp[i][1];
+				G_WanConns[G_WanConns_num][2] = temp[i][2];
+				G_WanConns[G_WanConns_num][3] = temp[i][3];
+				G_WanConns[G_WanConns_num][4] = temp[i][4];
+				G_WanConns[G_WanConns_num][5] = "PPPoE_Bridged";
+				G_WanConns[G_WanConns_num][6] = temp[i][7];
+				G_WanConns[G_WanConns_num][7] = temp[i][8];
+			    
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d76e70
+
+Total packet available: 1024 bytes
+Expected packet size: 1090 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d76f08
+
+
+				G_WanConns[G_WanConns_num][8] = temp[i][9];
+				G_WanConns[G_WanConns_num][9] = temp[i][10];
+				G_WanConns[G_WanConns_num][10]= temp[i][11];
+			    
+				++G_WanConns_num;
+			}
+			else if("PPPoU" == temp[i][5]){
+				G_WanConns3g[G_WanConns3g_num]    = [];
+				G_WanConns3g[G_WanConns3g_num][0] = temp[i][0];
+				G_WanConns3g[G_WanConns3g_num][1] = temp[i][1];
+				G_WanConns3g[G_WanConns3g_num][2] = temp[i][2];
+				G_WanConns3g[G_WanConns3g_num][3] = temp[i][3];
+				G_WanConns3g[G_WanConns3g_num][4] = temp[i][4];
+				G_WanConns3g[G_WanConns3g_num][5] = "PPPOE";
+				
+				G_WanConns3g[G_WanConns3g_num][6] = temp[i][8];
+				G_WanConns3g[G_WanConns3g_num][7] = temp[i][9];
+				
+				++G_WanConns3g_num;
+			}
+		}
+		
+		for(var i = 0; i < ethTemp.length; i++){
+			if(("IP_Routed" == ethTemp[i][5] )){
+				G_EthWanConns[G_EthWanConns_num]     = [];
+				G_EthWanConns[G_EthWanConns_num] [0] = ethTemp[i][0];
+				G_EthWanConns[G_Eth
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d773a0
+
+Total packet available: 1024 bytes
+Expected packet size: 1514 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d77438
+
+s_num] [2] = ethTemp[i][2];
+				G_EthWanConns[G_EthWanConns_num] [3] = ethTemp[i][3];
+				G_EthWanConns[G_EthWanConns_num] [4] = ethTemp[i][4];
+				G_EthWanConns[G_EthWanConns_num] [5] = "PPPOE";
+				G_EthWanConns[G_EthWanConns_num] [6] = ethTemp[i][7];
+				
+				G_EthWanConns[G_EthWanConns_num] [7] = ethTemp[i][8];
+				G_EthWanConns[G_EthWanConns_num] [8] = ethTemp[i][9];
+				
+				++G_EthWanConns_num;
+			}
+			else if(( ethTemp[i][5] == "PPPoE_Bridged") && (ethTemp[i][2] != "pppo3g")){
+				G_EthWanConns[G_EthWanConns_num]     = [];
+				G_EthWanConns[G_EthWanConns_num] [0] = ethTemp[i][0];
+				G_EthWanConns[G_EthWanConns_num] [1] = ethTemp[i][1];
+				G_EthWanConns[G_EthWanConns_num] [2] = ethTemp[i][2];
+				G_EthWanConns[G_EthWanConns_num] [3] = ethTemp[i][3];
+				G_EthWanConns[G_EthWanConns_num] [4] = ethTemp[i][4];
+				G_EthWanConns[G_EthWanConns_num] [5] = "PPPoE_Bridged";
+				G_EthWanConns[G_EthWanConns_num] [6] = ethTemp[i
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d77a78
+
+Total packet available: 1024 bytes
+Expected packet size: 1514 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d77b10
+
+
+	if(('reboot' == '-')
+		&&("0" == "0")){
+		$H({
+			'obj-action'     : 'reboot',
+			'var:page'       : 'system',
+			'var:noredirect' : '1',
+			'getpage'        : 'html/page/restarting.html'
+		});
+		$('uiPostForm').submit();
+	}
+
+	$('3g1').style.display = 'none';
+	$('3g2').style.display = 'none';
+	$('3g3').style.display = 'none';
+	$('lang_config2').style.display = 'none';
+	/*createDSLTable() 和 createEthernetTable()这两个函数在这里的位置不能调换，调换之后会影响到单选框的序列号 */
+	createDSLTable();
+	
+	
+		createEthernetTable();
+	
+	
+	checkShowBtn();
+}
+
+function select_choose()
+{
+	
+	
+	
+		for(var i = 0; i < G_WanConns.length ; i++){
+			var tmpid_dsl = "choose" + i;
+			if (Form.Checkbox(tmpid_dsl) == 1)
+			{
+				select_DSL = i;
+				select_Eth_all = 0;
+				select_DSL_all = 1;
+				return;
+			}		
+		}
+
+		for(var i = 0; i < G_EthWanConns.length ; i++){
+			var select_tmp = G_WanConns
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d78150
+
+Total packet available: 798 bytes
+Expected packet size: 798 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 732 bytes
+Memory address where payload begins: 0x7f6f28d781e8
+
+0) ? '<input type="radio" id="choose'+select_eth_tmp+'" name="choose" value="'+select_eth_tmp+'" checked >' : '<input type="radio" id="choose'+select_eth_tmp+'" name="choose" value="'+select_eth_tmp+'" >',
+					 G_ETH[j][1], //VLAN ID
+					 G_EthWanConns[i][2], //Service Name
+					 G_EthWanConns[i][5] == 'PPPOE' ? G_EthWanConns[i][5] : (G_EthWanConns[i][5] == "IP_Bridged"? "Bridge" : G_EthWanConns[i][4]), //Protocol
+					 G_EthWanConns[i][3], //Enable
+					 G_EthWanConns[i][1] == 'Disconnected' ? data_language.dynamic.disconnection : data_language.dynamic.connection, //Status
+					 G_EthWanConns[i][0].indexOf('PPP') > 0 ? '<input type="button" value=' + 
+						                  (G_EthWanConns[i][1] == 'Connected' ? 
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d78560
+
+Total packet available: 269 bytes
+Expected packet size: 269 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 203 bytes
+Memory address where payload begins: 0x7f6f28d785f8
+
+data_language.dynamic.disconnect : data_language.dynamic.connect) 
+										  + ' onclick="ctrlEthConnEnable(' + i + ')" ' + (G_EthWanConns[i][4] == 'Manual' ? '' : 'disabled') + '>' : '-'
+					 ];
+	
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d78760
+
+Not an IP packet. Skipping...
+
+Total packet available: 1024 bytes
+Expected packet size: 1090 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d788a0
+
+						  
+	if (G_EthWanConns[i][7] == "1") {
+	    if(G_EthWanConns[i][4] == 'OnDemand'){
+			 value_array[i][5] = ((G_EthWanConns[i][8] == 'Disconnected' || G_EthWanConns[i][8] == 'LinkLocalConnected') 
+                                 && ((G_EthWanConns[i][1] == 'Disconnected') || (G_EthWanConns[i][1] == 'Unconfigured'))) 
+			                     ? data_language.dynamic.disconnection : data_language.dynamic.connection ; //Status
+		 }
+		else{
+			 value_array[i][5] = ((G_EthWanConns[i][8] == 'Disconnected' || G_EthWanConns[i][8] == 'LinkLocalConnected') 
+                                 && (G_EthWanConns[i][1] == 'Disconnected')) ? data_language.dynamic.disconnection : data_language.dynamic.connection ; //Status
+			}
+		// IPv4_6
+		value_array[i][6] = G_EthWanConns[i][0].indexOf('PPP') > 0 ? '<input type="button" value=' + 
+                           ((G_EthWanConns[i][1] == 'Connected' || G_EthWanConns[i][8] == 'GlobalConnected') 
+		
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d78d38
+
+Total packet available: 1024 bytes
+Expected packet size: 1514 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d78dd0
+
+onnect ) + ' onclick="ctrlConnEnable(' + i + ')" '
+						   + (G_EthWanConns[i][4] == 'Manual' ? '' : 'disabled') + '>' : '-';
+			}
+	
+	}
+	$T('wan_eth_conns_list', value_array);
+}
+
+//DSL
+function createDSLTable(){ //生成WAN连接列表
+	var value_array = [];
+	var value_array3g = [];
+	var connect;
+
+	for(var i = 0, j, _len = G_WanConns.length; i < _len; i++){
+		
+	j = getAtmParam_DSL(i);
+	value_array[i] = [
+					 (i == 0)? '<input type="radio" id="choose'+i+'" name="choose" value="'+i+'" checked>' : '<input type="radio" id="choose'+i+'" name="choose" value="'+i+'">',
+					 G_ATM[j][2].split(':')[1], //VPI/VCI
+					 G_ATM[j][5], //VLAN ID
+					 G_ATM[j][3], //VLAN Mux
+					 G_WanConns[i][2].ellipsis(18), //Service Name
+					 (G_ATM[j][1] == 'EoA' && G_WanConns[i][0].indexOf('IP') > -1) ?
+					 G_WanConns[i][5] == 'IP_Bridged' ? 'Bridge' : G_WanConns[i][4] :
+					 (G_ATM[j][1] == 'EoA' && G_WanConns[i][0].indexOf('PPP') > -
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d79410
+
+Total packet available: 1024 bytes
+Expected packet size: 1514 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d794a8
+
++ (G_WanConns[i][1] == 'Connected' ? data_language.dynamic.disconnect : data_language.dynamic.connect) + ' onclick="ctrlConnEnable(' + i + ')" ' + (G_WanConns[i][4] == 'Manual' ? '' : 'disabled') + '>' : '-'
+                     ];
+
+							  
+	if (G_WanConns[i][8] == "1") {
+	    if(G_WanConns[i][4] == 'OnDemand'){
+			 value_array[i][7] = ((G_WanConns[i][10] == 'Disconnected' || G_WanConns[i][10] == 'LinkLocalConnected') 
+                                 && ((G_WanConns[i][1] == 'Disconnected') || (G_WanConns[i][1] == 'Unconfigured'))) 
+			                     ? data_language.dynamic.disconnection : data_language.dynamic.connection ; //Status
+		 }
+		else{
+			 value_array[i][7] = ((G_WanConns[i][9] == 'Disconnected' || G_WanConns[i][9] == 'LinkLocalConnected') 
+                                 && (G_WanConns[i][1] == 'Disconnected')) ? data_language.dynamic.disconnection : data_language.dynamic.connection ; //Status
+			}
+		// IPv4_6
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d79ae8
+
+Total packet available: 146 bytes
+Expected packet size: 146 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 80 bytes
+Memory address where payload begins: 0x7f6f28d79b80
+
+i++){
+	$('wan_conns_list_' + i + '4').title = G_WanConns[i][2];
+	
+	}
+	
+    
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d79c68
+
+Total packet available: 1024 bytes
+Expected packet size: 1494 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d79d00
+
+
+	for(var i = 0, j, _len = G_WanConns3g.length; i < _len; i++){
+		j = getAtmParam3g(i);
+		
+		value_array3g[i] = ['<input type="radio" id="choose'+i+'" name="choose" value="'+i+'">',
+						  G_WanConns3g[i][2], //Service Name
+						  (G_ATM[j][1] == 'EoA' && G_WanConns3g[i][0].indexOf('IP') > -1) ?
+						  G_WanConns3g[i][5] == 'IP_Bridged' ? 'Bridge' : G_WanConns3g[i][4] :
+                                                (G_ATM[j][1] == 'EoA' && G_WanConns3g[i][0].indexOf('PPP') > -1) ? 'PPPoE' : G_ATM[j][1], //Protocol
+						  G_WanConns3g[i][3], //Enable
+						  G_WanConns3g[i][1] == 'Connected' ? data_language.dynamic.connection : data_language.dynamic.disconnection, //Status
+						  G_WanConns3g[i][5] == 'IP_Bridged' ? '-' : '<input type="checkbox" id="INPUT_DefRoutingBtn' + i 
+						                         + '" onclick="ctrlDefaultRouting3g(' + i + ')"' + ((G_DefaultRouter + '.') == G_WanConns3g[i][0] ? 'checked' : '') 
+      
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7a330
+
+Total packet available: 1024 bytes
+Expected packet size: 1090 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d7a3c8
+
+
+}
+
+function checkShowBtn()
+{
+	
+	if (G_EthWanConns.length != 0 ||  G_WanConns.length != 0) {
+		$('add').disabled = 0;
+		$('del').disabled = 0;
+		$('edit').disabled = 0;
+	} else {
+		$('add').disabled = 0;
+		$('del').disabled = 1;
+		$('edit').disabled = 1;
+	}
+	
+	
+}
+
+function changetypeSelect(value){
+	wanSel= value;
+	$H({
+	    'var:wanSel'   : wanSel,
+		'var:menu'      : 'setup',
+		'var:page'      : 'wancfg',
+		'var:errorpage' : 'wancfg',
+		'getpage'       : 'html/index.html',
+		'errorpage'     : 'html/index.html',
+		'obj-action'    : 'set',
+		'var:CacheLastData': ViewState.Save()
+	},true);
+	$('uiPostForm').submit();
+}
+
+//管理WAN连接
+function ctrlConnEnable(_i){
+	var st_conn_DSL;
+//	var st_conn3g;
+	
+	
+	    if (G_WanConns[_i] && G_WanConns[_i][8] == '0') {         //若IPV6未开启
+		    if(G_WanConns[_i] && G_WanConns[_i][1] == 'Connected'){   //ipv4已连接
+			    st_conn_DSL = 'Disconnect';
+		    
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7a860
+
+Total packet available: 1024 bytes
+Expected packet size: 1514 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d7a8f8
+
+ipv4未连接
+			    st_conn_DSL = 'Connect';
+		    } else {
+			    return false;
+		    }
+	    } else {
+		    if(G_WanConns[_i] && G_WanConns[_i][1] == 'Connected') // 若IPV6已开启,且ipv4已连接
+			     st_conn_DSL = 'Disconnect';
+		    else if(G_WanConns[_i] && G_WanConns[_i][9] == 'Disconnected') //且ipv4未连接，IPV6也未连接
+			    st_conn_DSL = 'Connect';
+		    else
+			    st_conn_DSL = 'Disconnect';
+	    }
+	
+	
+	$H({
+		'var:menu'      : 'setup',
+		'var:page'      : 'wancfg',
+		'var:errorpage' : 'wancfg',
+		'getpage'       : 'html/index.html',
+		'errorpage'     : 'html/index.html',
+		'obj-action'    : 'set'
+	},true);
+	//Enable
+	$F(':' + G_WanConns[_i][0] + 'ConnectionTrigger', 'Manual');
+	$F(':' + G_WanConns[_i][0] + 'X_TWSZ-COM_ConnectionAction', st_conn_DSL);
+	 
+	$('uiPostForm').submit();
+}
+
+function ctrlEthConnEnable(_i){
+	var st_conn_Eth;
+	
+	
+		
+		 if (G_EthWanConns[_i] && G_EthWanConns[_
+Total packet available: 666 bytes
+Expected packet size: 666 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 600 bytes
+Memory address where payload begins: 0x7f6f28d7af38
+
+onnected')
+			    st_conn_Eth = 'Connect';
+		    else
+			    st_conn_Eth = 'Disconnect';
+	    }
+		
+	
+	
+	$H({
+		'var:menu'      : 'setup',
+		'var:page'      : 'wancfg',
+		'var:errorpage' : 'wancfg',
+		'getpage'       : 'html/index.html',
+		'errorpage'     : 'html/index.html',
+		'obj-action'    : 'set'
+	},true);
+	//Enable
+	 
+	 $F(':' + G_EthWanConns[_i][0] + 'ConnectionTrigger', 'Manual');
+	 $F(':' + G_EthWanConns[_i][0] + 'X_TWSZ-COM_ConnectionAction', st_conn_Eth);
+	 
+	
+	$('uiPostForm').submit();
+}	
+
+//通过对应ATM, 查找相应的数组索?
+function getAtmParam_DS
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7b228
+
+Total packet available: 1024 bytes
+Expected packet size: 1514 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d7b2c0
+
+L(_i){
+	var path_wan = G_WanConns[_i][0];
+	
+	for(var i = 0; i < G_ATM.length; i++){
+		if(path_wan.indexOf(G_ATM[i][0]) > -1){
+			return i;
+		}
+	}
+	
+	return -1;
+}
+//通过对应ATM, 查找相应的数组索?
+function getAtmParam_Eth(_i){
+	var path_wan = G_EthWanConns[_i][0];
+	
+	for(var i = 0; i < G_ETH.length; i++){
+		if(path_wan.indexOf(G_ETH[i][0]) > -1){
+			return i;
+		}
+	}
+	
+	return -1;
+}
+function ctrlConnEnable3g(_i){
+	var st_conn;
+
+	if(G_WanConns3g[_i] && G_WanConns3g[_i][1] == 'Connected'){
+		st_conn = 'Disconnect';
+	} else if(G_WanConns3g[_i] && G_WanConns3g[_i][1] != 'Connected'){
+		st_conn = 'Connect';
+	} else {
+		return false;
+	}
+	
+	$H({
+		'var:menu'      : 'setup',
+		'var:page'      : 'wancfg',
+		'var:errorpage' : 'wancfg',
+		'getpage'       : 'html/index.html',
+		'errorpage'     : 'html/index.html',
+		'obj-action'    : 'set'
+	},true);
+
+	$F(':' + G_WanConns3g[_i][0] + 'ConnectionTrigger', 'M
+Total packet available: 509 bytes
+Expected packet size: 509 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 443 bytes
+Memory address where payload begins: 0x7f6f28d7b900
+
+}
+	
+	$H({
+		':InternetGatewayDevice.Layer3Forwarding.DefaultConnectionService' : _path,
+		'obj-action'    : 'set',
+		'var:menu'      : 'setup',
+		'var:page'      : 'wancfg',
+		'var:errorpage' : 'wancfg',
+		'getpage'       : 'html/index.html',
+		'errorpage'     : 'html/index.html'
+	},true);
+	$('uiPostForm').submit();
+}
+
+function uiAdd(){
+	$('add').disabled = 1;
+	$('edit').disabled = 1;
+	$('del').disabled = 1;
+	var _url;
+	
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7bb58
+
+Total packet available: 1024 bytes
+Expected packet size: 1090 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d7bbf0
+
+
+	    if(wanSel == 1){
+		    _url = '/cgi-bin/webproc?getpage=html/index.html&var:menu=setup&var:page=wancfg&var:subpage=wanethernet';
+	    } else {
+		    _url = '/cgi-bin/webproc?getpage=html/index.html&var:menu=setup&var:page=wancfg&var:subpage=wanadsl';
+	    }  
+    
+	
+	document.location.href = _url;
+}
+
+function uiEdit(){
+	$('add').disabled = 1;
+	$('edit').disabled = 1;
+	$('del').disabled = 1;
+	select_choose();
+
+	if(1 == select_Eth_all){
+	    var wan_conn = G_EthWanConns[select_Eth][0];
+	
+	    $H({
+		    'var:conn_type' : G_EthWanConns[select_Eth][5] == 'PPPOE' ? G_EthWanConns[select_Eth][5] : (G_EthWanConns[select_Eth][5] == "IP_Bridged"? "Bridge" : G_EthWanConns[select_Eth][4]),
+		    'var:secIdx'    : wan_conn.split('.')[4],
+		    'var:thdIdx'    : wan_conn.split('.')[6],
+		    'var:menu'      : 'setup',
+		    'var:page'      : 'wancfg',
+		    'var:subpage'   : 'wanethernet',
+		    'getpage'       : 'html/index.
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7c088
+
+Total packet available: 1024 bytes
+Expected packet size: 1090 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d7c120
+
+else if(1 == select_DSL_all){
+		var wan_conn = G_WanConns[select_DSL][0];
+	
+	    $H({
+		    'var:conn_type' : wan_conn.indexOf('PPP') > -1 ? 'PPP' : 'IP', //IP/PPP
+		    'var:secIdx'    : wan_conn.split('.')[4],
+		    'var:thdIdx'    : wan_conn.split('.')[6],
+		    'var:menu'      : 'setup',
+		    'var:page'      : 'wancfg',
+		    'var:subpage'   : 'wanadsl',
+		    'getpage'       : 'html/index.html',
+		    'errorpage'     : 'html/index.html'
+	    });	
+	}
+
+
+	$('uiPostForm').submit();
+}
+
+function uiDelete(){
+	$('add').disabled = 1;
+	$('edit').disabled = 1;
+	$('del').disabled = 1;
+	select_choose();
+
+	if(1 == select_Eth_all){
+		if(1 == G_EthWanConns_num){
+		    uiAjax_Set();
+	   	 }else{
+			ajax_Del_eth();
+	    	}
+	}
+	if(1 == select_DSL_all){
+		ajax_Del_adsl();
+	}
+
+
+}
+
+function uiAjax_Set(){
+	$H({
+		':InternetGatewayDevice.WANDevice.3.WANEthernetInterfaceConfig.Enable' : "0",
+		'getpage'       : 'html/page
+Total packet available: 1024 bytes
+Expected packet size: 1514 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d7c5b8
+
+ 'set'
+	}, true);	
+	
+	var _url = "/cgi-bin/webproc";
+	ajax = Ajax.getInstance(_url, "", 0, ajax_Del_eth);
+	ajax.post($('uiPostForm'));	
+	
+}
+function ajax_Del_eth(){
+	$H({
+		'mid'           : '0430',
+		'del-obj'       : G_EthWanConns[select_Eth][0],
+		'obj-action'    : 'del',
+		'getpage'       : 'html/page/wiz_ajax.js',
+		'var:page'      : 'wancfg'
+	},true);	
+
+	var _url = "/cgi-bin/webproc";
+	ajax = Ajax.getInstance(_url, "", 0, ajax_SetProc);
+	ajax.post($('uiPostForm'));
+}
+
+function ajax_Del_adsl(){
+
+	$H({
+		'mid'           : '0430',
+		'del-obj'       : G_WanConns[select_DSL][0],
+		'obj-action'    : 'del',
+		'getpage'       : 'html/page/wiz_ajax.js',
+		'var:page'      : 'wancfg'
+	},true);
+	var _url = "/cgi-bin/webproc";
+	ajax = Ajax.getInstance(_url, "", 0, ajax_SetProc);
+	ajax.post($('uiPostForm'));
+}
+
+function ajax_SetProc(_text){
+	//Success, then jump to page
+	try{
+		eval(_text);
+	} catch (ex){
+		G_Er
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7cbf8
+
+Total packet available: 1024 bytes
+Expected packet size: 1167 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d7cc90
+
+ar:page=wancfg&var:subpage=wan3g';
+	
+	document.location.href = _url;
+}
+
+function uiEdit3g(){
+	if(_array_id.length > 1){
+		alert(SEcode[1009]);
+		return false;
+	} else
+	if(_array_id.length == 0){
+		alert(SEcode[9888]);
+		return false;
+	}
+	
+	var wan_conn = G_WanConns3g[_array_id[0]][0];
+	
+	$H({
+		'var:conn_type' : wan_conn.indexOf('PPP') > -1 ? 'PPP' : 'IP', //IP/PPP
+		'var:secIdx'    : wan_conn.split('.')[4],
+		'var:thdIdx'    : wan_conn.split('.')[6],
+		'var:menu'      : 'setup',
+		'var:page'      : 'wancfg',
+		'var:subpage'   : 'wan3g',
+		'getpage'       : 'html/index.html',
+		'errorpage'     : 'html/index.html'
+	});
+	
+	$('uiPostForm').submit();
+}
+
+function uiDelete3g(){
+	if(_array_id.length > 1){
+		alert(SEcode[1009]);
+		return false;
+	} else
+	if(_array_id.length == 0){
+		alert(SEcode[9888]);
+		return false;
+	}
+
+	var Idx = _array_id[0];
+	$H({
+		'mid'           : '0430',
+		'del-obj'       : G_WanConn
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7d178
+
+Total packet available: 1024 bytes
+Expected packet size: 1090 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d7d210
+
+setup',
+		'var:page'      : 'wancfg',
+		'var:errorpage' : 'wancfg'
+	},true);
+	$('uiPostForm').submit();
+}
+
+function dealWithError(){
+	if (G_Error != 1){
+		return false;
+	}
+	
+	var arrayHint = [];
+	
+	dealErrorMsg(arrayHint, G_Error_Msg);
+	
+}
+
+addListeners(uiOnload, dealWithError);
+
+-->
+</script>
+<!--<script for=window event=onbeforeunload>  
+  if(event.clientX > document.body.clientWidth && event.clientY < 0 || event.altKey)  
+  uiLogout('2ecccec9');
+</script>-->
+
+</head>
+
+<body>
+<!-- header -->
+<div class="header">
+	<!-- title -->
+	<div class="title">
+		<div class="product"><span id="lang_product">Product Page</span>: DSL-2750U</div><div class="firmware"><span id = "lang_firmware">Firmware Version</span>:ME_1.09</div>
+	</div>
+	<!-- logo -->
+	<div class="logo"><img src="/html/skin/logo.gif" alt="logo"/></div>
+</div>
+<!-- main menu -->
+<div class="main_menu">
+	<div class="model"><img src="/html/skin/DSL-275
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7d6a8
+
+Total packet available: 1024 bytes
+Expected packet size: 1514 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d7d740
+
+gi-bin/webproc?getpage=html/index.html&var:menu=setup&var:page=wizard"><span id="lang_setup">setup</span></a></li>
+		<li><a id="" href="/cgi-bin/webproc?getpage=html/index.html&var:menu=advanced&var:page=wadvance"><span id="lang_advanced">advanced</span></a></li>
+		<li><a id="" href="/cgi-bin/webproc?getpage=html/index.html&var:menu=maintenance&var:page=system"><span id="lang_management">maintenance</span></a></li>
+		<li><a id="" href="/cgi-bin/webproc?getpage=html/index.html&var:menu=status&var:page=deviceinfo"><span id="lang_status">status</span></a></li>
+		<li><a id="" href="/cgi-bin/webproc?getpage=html/index.html&var:menu=help&var:page=helpmenu"><span id="lang_help_menu">help</span></a></li>
+	</ul>
+</div>
+<!-- Content -->
+<table class="content" id="Content">
+	<tr>
+	<!-- sub menu-->
+			<td class="td_menu">
+			<div class="sub_menu">
+				<div id="Menu">
+			<!-- setup -->
+				<p class="ThdLevel"><a id="" href="/cgi-bin/webproc?g
+Total packet available: 666 bytes
+Expected packet size: 666 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 600 bytes
+Memory address where payload begins: 0x7f6f28d7dd80
+
+		<ul class="thirdMenu" onmouseover="onClearTimeOut()" onmouseout="onHiddenMenu(event)">
+					<li><a href="/cgi-bin/webproc?getpage=html/index.html&var:menu=setup&var:page=wireless&var:subpage=wlbasic"><span id = "lang_wireless_basic">Wireless Basic</span></a></li>
+					<li><a href="/cgi-bin/webproc?getpage=html/index.html&var:menu=setup&var:page=wireless&var:subpage=wlsecurity"><span id = "lang_wireless_security">Wireless Security</span></a></li>
+				</ul>
+				<p><a id="" href="/cgi-bin/webproc?getpage=html/index.html&var:menu=setup&var:page=lan"><span id = "lang_net">Local Network</span>
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7e070
+
+Total packet available: 1024 bytes
+Expected packet size: 1514 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d7e108
+
+</a></p>
+				<p><a id="" href="/cgi-bin/webproc?getpage=html/index.html&var:menu=setup&var:page=ipv6_lan"><span id = "lang_lan_ipv6">LAN IPv6</span></a></p>
+				<p><a id="" href="/cgi-bin/webproc?getpage=html/index.html&var:menu=setup&var:page=date"><span id = "lang_time">Time and Date</span></a></p>
+				<p><a id="" href="/cgi-bin/webproc?getpage=html/index.html&var:menu=setup&var:page=logout"><span id = "lang_logout1">Logout</span></a></p>
+			
+			<!-- advanced -->
+			
+			<!-- maintenance -->
+			
+			<!-- status -->
+			
+			<!-- help -->
+			
+			</div>
+			</div>
+		</td>
+
+	<!-- config -->
+	<script type="text/javascript" src="/html/js/ajax.js"></script>
+             <meta http-equiv='refresh' content='10'>
+		<td>
+			<div class="config1">
+				<p class="bk_orange" id = "lang_config">Internet Setup</p>
+				<div class="div_orange">
+					<p id = "lang_introduction">
+						Choose "Add", "Edit", or "Delete" to configure WAN interfa
+Total packet available: 304 bytes
+Expected packet size: 304 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 238 bytes
+Memory address where payload begins: 0x7f6f28d7e748
+
+="INPUT_WanAcsType" value="1" onClick="changetypeSelect(1)" />
+						<span id = "lang_ethernet">Ethernet </span>
+						<input type="radio" name="INPUT_WanAcsType" value="0" onClick="changetypeSelect(0)"/>DSL
+				    </div>
+			        
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7e8d0
+
+Total packet available: 1024 bytes
+Expected packet size: 1090 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d7e968
+
+
+			   </div>
+			   <br>
+				<p class="bk_black" id = "lang_config_DSL">DSL Setup</p>
+				<div class="div_black">
+					<table class="td_table_l" id="wan_conns_list">
+						<tr class="tr_bold">
+							<td>&nbsp;</td>
+							<td id="lang_pvc">VPI/VCI</td>
+							<td>VLAN ID</td>
+							<td id = "lang_encap_dsl">ENCAP</td>
+							<td id = "lang_name_dsl">Service Name</td>
+							<td id = "lang_protocol_dsl">Protocol</td>
+							<td id = "lang_state_dsl">State</td>
+							<td id = "lang_status_dsl">Status</td>
+							<!- scb+ 2012-8-1  -!>
+							
+							<td id = "lang_Backup3G">Backup3G</td>
+							
+							<td id = "lang_action_dsl">Action</td>
+						</tr>
+					</table>
+				</div>
+			    
+				<br>
+				<p class="bk_black" id = "lang_config_Eth">Ethernet Setup </p>
+				<div class="div_black">
+					<table class="td_table_s" id="wan_eth_conns_list">
+						<tr class="tr_bold">
+							<td>&nbsp;</td>
+							<td>VLAN ID</td>
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7ee00
+
+Total packet available: 1024 bytes
+Expected packet size: 1514 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d7ee98
+
+ = "lang_protocol_eth">Protocol</td>
+							<td id = "lang_state_eth">State</td>
+							<td id = "lang_status_eth">Status</td>
+							<td id = "lang_action_eth">Action</td>
+						</tr>
+					</table>
+				</div>
+			  
+			 </div>
+			  	<div class="div_button" >
+					<input type="button" id = "add" value="Add" onClick="uiAdd()" />
+					<input type="button" id = "edit" value="Edit" onClick="uiEdit()" />
+					<input type="button" id = "del" value="Delete" onClick="uiDelete()" />
+				</div>
+				<div class="div_orange" id="3g1">
+					<p id = "lang_introduction2">
+						Choose "Add", "Edit", or "Delete" to configure 3G WAN interfaces.<br>
+						If your 3G WAN is not connected, please check your 3G's <a href="/cgi-bin/webproc?getpage=html/index.html&var:menu=advanced&var:page=Usb_pin_puk">sim card status</a>, if it is locked, unlock it first.
+					</p>
+					<!--
+					<p id = "lang_introduction1">
+						If you want to change WAN acces
+Total packet available: 1024 bytes
+Expected packet size: 1292 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 958 bytes
+Memory address where payload begins: 0x7f6f28d7f4d8
+
+"button" id = "Cancel" value="Cancel" onClick="uiPageRefresh()" /></div>
+			-->
+				<p class="do bk_black" id = "lang_config2">3G Wan Setup</p>
+				<div class="div_black" id="3g2">
+					<table class="td_table_l" id="wan_conns_list_3g">
+						<tr class="tr_bold">
+							<td>&nbsp;</td>					
+							<td id = "lang_name_3g">Service Name</td>
+							<td id = "lang_protocol_3g">Protocol</td>
+							<td id = "lang_state_3g">State</td>
+							<td id = "lang_status1_3g">Status</td>
+							<td id = "lang_defaultgw_3g">Default Gateway</td>
+							<td id = "lang_action_3g">Action</td>
+						</tr>
+					</table>
+				</div>
+				<div class="div_button" id="3g3">
+					<input type="button"  id = "add_3g" value="Add" onClick="uiAdd3g()" />
+					<input type="button" id = "edit_3g" value="Edit" onClick="uiEdit3g()" />
+					<input type="button" id = "del_3g" value="Delete" onClick="uiDelete3g()" />
+				</div>
+			</div>
+		</td>
+
+	</tr>
+</tabl
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7fa40
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7fad8
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7fb70
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7fc08
+
+Total packet available: 74 bytes
+Expected packet size: 74 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 40
+Size of all headers combined: 74 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7fca8
+
+Total packet available: 74 bytes
+Expected packet size: 74 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 40
+Size of all headers combined: 74 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7fd48
+
+Total packet available: 74 bytes
+Expected packet size: 74 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 40
+Size of all headers combined: 74 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7fde8
+
+Total packet available: 74 bytes
+Expected packet size: 74 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 40
+Size of all headers combined: 74 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7fe88
+
+Total packet available: 74 bytes
+Expected packet size: 74 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 40
+Size of all headers combined: 74 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7ff28
+
+Total packet available: 74 bytes
+Expected packet size: 74 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 40
+Size of all headers combined: 74 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d7ffc8
+
+Total packet available: 70 bytes
+Expected packet size: 70 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 36
+Size of all headers combined: 70 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d80064
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d80100
+
+Total packet available: 627 bytes
+Expected packet size: 627 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 561 bytes
+Memory address where payload begins: 0x7f6f28d80198
+
+GET /html/skin/common.css?v=dlink0003 HTTP/1.1
+Host: 192.168.1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.1.1/cgi-bin/webproc?var:menu=setup&var:page=wancfg&getpage=html/index.html&errorpage=html/index.html
+Connection: keep-alive
+Cookie: sessionid=2ecccec9; TBSPASSWORD=admin; language=en_us; sys_UserName=admin
+DNT: 1
+If-Modified-Since: Sat, 30 Mar 2013 14:05:07 GMT
+Cache-Control: max-age=0
+
+
+Total packet available: 70 bytes
+Expected packet size: 70 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 36
+Size of all headers combined: 70 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d8046c
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d80508
+
+Total packet available: 621 bytes
+Expected packet size: 621 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 555 bytes
+Memory address where payload begins: 0x7f6f28d805a0
+
+GET /html/languages/en_us/error.js?v=dlink0003 HTTP/1.1
+Host: 192.168.1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.1.1/cgi-bin/webproc?var:menu=setup&var:page=wancfg&getpage=html/index.html&errorpage=html/index.html
+Connection: keep-alive
+Cookie: sessionid=2ecccec9; TBSPASSWORD=admin; language=en_us; sys_UserName=admin
+DNT: 1
+If-Modified-Since: Sat, 30 Mar 2013 14:05:07 GMT
+Cache-Control: max-age=0
+
+
+Total packet available: 70 bytes
+Expected packet size: 70 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 36
+Size of all headers combined: 70 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d8086c
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d80908
+
+Total packet available: 620 bytes
+Expected packet size: 620 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 554 bytes
+Memory address where payload begins: 0x7f6f28d809a0
+
+GET /html/languages/en_us/menu.js?v=dlink0003 HTTP/1.1
+Host: 192.168.1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.1.1/cgi-bin/webproc?var:menu=setup&var:page=wancfg&getpage=html/index.html&errorpage=html/index.html
+Connection: keep-alive
+Cookie: sessionid=2ecccec9; TBSPASSWORD=admin; language=en_us; sys_UserName=admin
+DNT: 1
+If-Modified-Since: Sat, 30 Mar 2013 14:05:07 GMT
+Cache-Control: max-age=0
+
+
+Total packet available: 70 bytes
+Expected packet size: 70 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 36
+Size of all headers combined: 70 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d80c6c
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d80d08
+
+Total packet available: 627 bytes
+Expected packet size: 627 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 561 bytes
+Memory address where payload begins: 0x7f6f28d80da0
+
+GET /html/languages/en_us/page/wancfg.js?v=dlink0003 HTTP/1.1
+Host: 192.168.1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.1.1/cgi-bin/webproc?var:menu=setup&var:page=wancfg&getpage=html/index.html&errorpage=html/index.html
+Connection: keep-alive
+Cookie: sessionid=2ecccec9; TBSPASSWORD=admin; language=en_us; sys_UserName=admin
+DNT: 1
+If-Modified-Since: Sat, 30 Mar 2013 14:05:07 GMT
+Cache-Control: max-age=0
+
+
+Total packet available: 70 bytes
+Expected packet size: 70 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 36
+Size of all headers combined: 70 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d81074
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d81110
+
+Total packet available: 607 bytes
+Expected packet size: 607 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 541 bytes
+Memory address where payload begins: 0x7f6f28d811a8
+
+GET /html/js/boot.js?v=dlink0003 HTTP/1.1
+Host: 192.168.1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.1.1/cgi-bin/webproc?var:menu=setup&var:page=wancfg&getpage=html/index.html&errorpage=html/index.html
+Connection: keep-alive
+Cookie: sessionid=2ecccec9; TBSPASSWORD=admin; language=en_us; sys_UserName=admin
+DNT: 1
+If-Modified-Since: Sat, 30 Mar 2013 14:05:06 GMT
+Cache-Control: max-age=0
+
+
+Total packet available: 70 bytes
+Expected packet size: 70 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 36
+Size of all headers combined: 70 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d81464
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d81500
+
+Total packet available: 610 bytes
+Expected packet size: 610 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 544 bytes
+Memory address where payload begins: 0x7f6f28d81598
+
+GET /html/js/secboot.js?v=dlink0003 HTTP/1.1
+Host: 192.168.1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.1.1/cgi-bin/webproc?var:menu=setup&var:page=wancfg&getpage=html/index.html&errorpage=html/index.html
+Connection: keep-alive
+Cookie: sessionid=2ecccec9; TBSPASSWORD=admin; language=en_us; sys_UserName=admin
+DNT: 1
+If-Modified-Since: Sat, 30 Mar 2013 14:05:07 GMT
+Cache-Control: max-age=0
+
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d81850
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d818e8
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d81980
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d81a18
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d81ab0
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d81b48
+
+Total packet available: 256 bytes
+Expected packet size: 256 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 190 bytes
+Memory address where payload begins: 0x7f6f28d81be0
+
+HTTP/1.1 304 Not Modified
+Server: mini_httpd/1.19 19dec2003
+Date: Tue, 22 May 2012 19:37:36 GMT
+Content-Type: text/css
+Last-Modified: Sat, 30 Mar 2013 14:05:07 GMT
+Connection: close
+
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d81d38
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d81dd0
+
+Total packet available: 74 bytes
+Expected packet size: 74 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 40
+Size of all headers combined: 74 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d81e70
+
+Total packet available: 70 bytes
+Expected packet size: 70 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 36
+Size of all headers combined: 70 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d81f0c
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d81fa8
+
+Total packet available: 595 bytes
+Expected packet size: 595 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 529 bytes
+Memory address where payload begins: 0x7f6f28d82040
+
+GET /html/js/ajax.js HTTP/1.1
+Host: 192.168.1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.1.1/cgi-bin/webproc?var:menu=setup&var:page=wancfg&getpage=html/index.html&errorpage=html/index.html
+Connection: keep-alive
+Cookie: sessionid=2ecccec9; TBSPASSWORD=admin; language=en_us; sys_UserName=admin
+DNT: 1
+If-Modified-Since: Sat, 30 Mar 2013 14:05:06 GMT
+Cache-Control: max-age=0
+
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d822f0
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d82388
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d82420
+
+Total packet available: 272 bytes
+Expected packet size: 272 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 206 bytes
+Memory address where payload begins: 0x7f6f28d824b8
+
+HTTP/1.1 304 Not Modified
+Server: mini_httpd/1.19 19dec2003
+Date: Tue, 22 May 2012 19:37:36 GMT
+Content-Type: application/x-javascript
+Last-Modified: Sat, 30 Mar 2013 14:05:07 GMT
+Connection: close
+
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d82620
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d826b8
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d82750
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d827e8
+
+Total packet available: 272 bytes
+Expected packet size: 272 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 206 bytes
+Memory address where payload begins: 0x7f6f28d82880
+
+HTTP/1.1 304 Not Modified
+Server: mini_httpd/1.19 19dec2003
+Date: Tue, 22 May 2012 19:37:36 GMT
+Content-Type: application/x-javascript
+Last-Modified: Sat, 30 Mar 2013 14:05:07 GMT
+Connection: close
+
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d829e8
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d82a80
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d82b18
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d82bb0
+
+Total packet available: 272 bytes
+Expected packet size: 272 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 206 bytes
+Memory address where payload begins: 0x7f6f28d82c48
+
+HTTP/1.1 304 Not Modified
+Server: mini_httpd/1.19 19dec2003
+Date: Tue, 22 May 2012 19:37:36 GMT
+Content-Type: application/x-javascript
+Last-Modified: Sat, 30 Mar 2013 14:05:07 GMT
+Connection: close
+
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d82db0
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d82e48
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d82ee0
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d82f78
+
+Total packet available: 272 bytes
+Expected packet size: 272 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 206 bytes
+Memory address where payload begins: 0x7f6f28d83010
+
+HTTP/1.1 304 Not Modified
+Server: mini_httpd/1.19 19dec2003
+Date: Tue, 22 May 2012 19:37:36 GMT
+Content-Type: application/x-javascript
+Last-Modified: Sat, 30 Mar 2013 14:05:06 GMT
+Connection: close
+
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d83178
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d83210
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d832a8
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d83340
+
+Total packet available: 272 bytes
+Expected packet size: 272 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 206 bytes
+Memory address where payload begins: 0x7f6f28d833d8
+
+HTTP/1.1 304 Not Modified
+Server: mini_httpd/1.19 19dec2003
+Date: Tue, 22 May 2012 19:37:36 GMT
+Content-Type: application/x-javascript
+Last-Modified: Sat, 30 Mar 2013 14:05:07 GMT
+Connection: close
+
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d83540
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d835d8
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d83670
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d83708
+
+Total packet available: 272 bytes
+Expected packet size: 272 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 206 bytes
+Memory address where payload begins: 0x7f6f28d837a0
+
+HTTP/1.1 304 Not Modified
+Server: mini_httpd/1.19 19dec2003
+Date: Tue, 22 May 2012 19:37:36 GMT
+Content-Type: application/x-javascript
+Last-Modified: Sat, 30 Mar 2013 14:05:06 GMT
+Connection: close
+
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d83908
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d839a0
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d83a38
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d83ad0
+
+Total packet available: 74 bytes
+Expected packet size: 74 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 40
+Size of all headers combined: 74 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d83b70
+
+Total packet available: 74 bytes
+Expected packet size: 74 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 40
+Size of all headers combined: 74 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d83c10
+
+Total packet available: 74 bytes
+Expected packet size: 74 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 40
+Size of all headers combined: 74 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d83cb0
+
+Total packet available: 70 bytes
+Expected packet size: 70 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 36
+Size of all headers combined: 70 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d83d4c
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d83de8
+
+Total packet available: 609 bytes
+Expected packet size: 609 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 543 bytes
+Memory address where payload begins: 0x7f6f28d83e80
+
+GET /html/skin/logo.gif HTTP/1.1
+Host: 192.168.1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.1.1/cgi-bin/webproc?var:menu=setup&var:page=wancfg&getpage=html/index.html&errorpage=html/index.html
+Connection: keep-alive
+Cookie: sessionid=2ecccec9; TBSPASSWORD=admin; language=en_us; sys_UserName=admin
+DNT: 1
+If-Modified-Since: Sat, 30 Mar 2013 14:05:07 GMT
+Cache-Control: max-age=0
+
+
+Total packet available: 70 bytes
+Expected packet size: 70 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 36
+Size of all headers combined: 70 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d8413c
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d841d8
+
+Total packet available: 614 bytes
+Expected packet size: 614 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 548 bytes
+Memory address where payload begins: 0x7f6f28d84270
+
+GET /html/skin/DSL-2750U.gif HTTP/1.1
+Host: 192.168.1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.1.1/cgi-bin/webproc?var:menu=setup&var:page=wancfg&getpage=html/index.html&errorpage=html/index.html
+Connection: keep-alive
+Cookie: sessionid=2ecccec9; TBSPASSWORD=admin; language=en_us; sys_UserName=admin
+DNT: 1
+If-Modified-Since: Sat, 30 Mar 2013 14:05:07 GMT
+Cache-Control: max-age=0
+
+
+Total packet available: 70 bytes
+Expected packet size: 70 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 36
+Size of all headers combined: 70 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d84534
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d845d0
+
+Total packet available: 614 bytes
+Expected packet size: 614 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 548 bytes
+Memory address where payload begins: 0x7f6f28d84668
+
+GET /html/skin/broadband.gif HTTP/1.1
+Host: 192.168.1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.1.1/cgi-bin/webproc?var:menu=setup&var:page=wancfg&getpage=html/index.html&errorpage=html/index.html
+Connection: keep-alive
+Cookie: sessionid=2ecccec9; TBSPASSWORD=admin; language=en_us; sys_UserName=admin
+DNT: 1
+If-Modified-Since: Sat, 30 Mar 2013 14:05:07 GMT
+Cache-Control: max-age=0
+
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d84928
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d849c0
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d84a58
+
+Total packet available: 257 bytes
+Expected packet size: 257 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 191 bytes
+Memory address where payload begins: 0x7f6f28d84af0
+
+HTTP/1.1 304 Not Modified
+Server: mini_httpd/1.19 19dec2003
+Date: Tue, 22 May 2012 19:37:36 GMT
+Content-Type: image/gif
+Last-Modified: Sat, 30 Mar 2013 14:05:07 GMT
+Connection: close
+
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d84c48
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d84ce0
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d84d78
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d84e10
+
+Total packet available: 257 bytes
+Expected packet size: 257 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 191 bytes
+Memory address where payload begins: 0x7f6f28d84ea8
+
+HTTP/1.1 304 Not Modified
+Server: mini_httpd/1.19 19dec2003
+Date: Tue, 22 May 2012 19:37:36 GMT
+Content-Type: image/gif
+Last-Modified: Sat, 30 Mar 2013 14:05:07 GMT
+Connection: close
+
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d85000
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d85098
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d85130
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d851c8
+
+Total packet available: 257 bytes
+Expected packet size: 257 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 191 bytes
+Memory address where payload begins: 0x7f6f28d85260
+
+HTTP/1.1 304 Not Modified
+Server: mini_httpd/1.19 19dec2003
+Date: Tue, 22 May 2012 19:37:36 GMT
+Content-Type: image/gif
+Last-Modified: Sat, 30 Mar 2013 14:05:07 GMT
+Connection: close
+
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d853b8
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d85450
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d854e8
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d85580
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d85618
+
+Total packet available: 66 bytes
+Expected packet size: 66 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 32
+Size of all headers combined: 66 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d856b0
+
+Total packet available: 90 bytes
+Expected packet size: 90 bytes
+IP header length (IHL) in bytes: 20
+Not a TCP packet. Skipping...
+
+Total packet available: 118 bytes
+Expected packet size: 118 bytes
+IP header length (IHL) in bytes: 20
+Not a TCP packet. Skipping...
+
+Total packet available: 74 bytes
+Expected packet size: 74 bytes
+IP header length (IHL) in bytes: 20
+TCP header length in bytes: 40
+Size of all headers combined: 74 bytes
+Payload size: 0 bytes
+Memory address where payload begins: 0x7f6f28d858d0
+
