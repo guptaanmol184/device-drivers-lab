@@ -4,3 +4,4 @@
 *.mod.c
 Module.symvers
 modules.order
+a.out
