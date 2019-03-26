@@ -7,7 +7,7 @@ function getidof () {
     return "${PIPESTATUS[1]}" # dirty hack to return the exit status of grep
 }
 
-if getidof "master2 pointer"; then
+if getidof "master2 pointer" 1>/dev/null; then
     master2id=$(getidof "master2 pointer")
 else
 	echo "master2 does not exist. Please run create-pointer.sh fisrt."

@@ -7,8 +7,9 @@ function getidof () {
     return "${PIPESTATUS[1]}" # dirty hack to return the exit status of grep
 }
 
-if getidof "master2"; then
+if getidof "master2 pointer" 1>/dev/null; then
     echo "master2 already exists. Not creating master2."
+    exit 1
 else
     xinput create-master "master2"
 fi
